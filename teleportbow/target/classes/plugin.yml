@@ -1,0 +1,7 @@
+name: teleportbow
+version: '1.0-SNAPSHOT'
+main: me.mariopartida.teleportbow.Teleportbow
+api-version: '1.21'
+commands:
+  givebow:
+    description: Gives a user a teleportation bow.

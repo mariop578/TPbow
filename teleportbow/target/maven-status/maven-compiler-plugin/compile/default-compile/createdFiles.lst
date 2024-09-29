@@ -1,0 +1,4 @@
+me/mariopartida/teleportbow/Teleportbow.class
+me/mariopartida/teleportbow/commands/GiveCommand.class
+me/mariopartida/teleportbow/listeners/TeleportBowListener.class
+me/mariopartida/teleportbow/utility/BowUtils.class
